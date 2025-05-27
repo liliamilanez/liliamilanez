@@ -1,4 +1,4 @@
-<h2 align="left"> Oie! Sou a Lili :) </h2>
+<h2 align="left"> Oie! Sou a Lili Peck :) </h2>
 
 <p>
   <img 
